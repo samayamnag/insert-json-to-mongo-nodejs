@@ -1,0 +1,183 @@
+{
+	"type": "FeatureCollection",
+	"name": "road_segments",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"segments": [
+		{
+			"type": "Segment",
+			"properties": {
+				"id": "1",
+				"road_id": 1,
+				"length_m": 653.0,
+				"surveyed": null,
+				"surveyed_c": null,
+				"surveyed_p": null,
+				"no_of_segm": 3,
+				"surveyed_s": null,
+				"two_sided": null,
+				"ward_id": 1,
+				"ward_no": 93,
+				"ward_name": "Vasanthanagar1",
+				"city_id": 1,
+				"obs_per": null,
+				"s_st_lng": 12.993427,
+				"s_st_lat": 77.5956,
+				"s_ed_lng": 77.59438,
+				"s_end_lat": 12.991958,
+				"r_st_lng": 77.595599,
+				"r_end_lat": 12.988883,
+				"r_end_lng": 77.592164,
+				"r_st_lat": 12.993427,
+				"city_name": "Bengaluru",
+				"seg_lenght_in_mts": 210.0,
+				"road_name": "Millers Road",
+				"seg_id": 1001,
+				"created_at": null
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						77.59559915833556,
+						12.993426575304829
+					],
+					[
+						77.595066911083194,
+						12.992770361980435
+					],
+					[
+						77.594436904131371,
+						12.992018889753171
+					],
+					[
+						77.594380054817805,
+						12.99195795629049
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "2",
+				"road_id": 1,
+				"length_m": 653.0,
+				"surveyed": null,
+				"surveyed_c": null,
+				"surveyed_p": null,
+				"no_of_segm": 3,
+				"surveyed_s": null,
+				"two_sided": null,
+				"ward_id": 1,
+				"ward_no": 93,
+				"ward_name": "Vasanthanagar",
+				"city_id": 1,
+				"obs_per": null,
+				"s_st_lng": 12.991958,
+				"s_st_lat": 77.59438,
+				"s_ed_lng": 77.593292,
+				"s_end_lat": 12.990404,
+				"r_st_lng": 77.595599,
+				"r_end_lat": 12.988883,
+				"r_end_lng": 77.592164,
+				"r_st_lat": 12.993427,
+				"city_name": "Bengaluru",
+				"seg_lenght_in_mts": 215.0,
+				"road_name": "Millers Road",
+				"seg_id": 1002,
+				"created_at": null
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						77.594380054817805,
+						12.99195795629049
+					],
+					[
+						77.594002416578405,
+						12.991553187513279
+					],
+					[
+						77.59348103151487,
+						12.990738206492079
+					],
+					[
+						77.59329205240202,
+						12.990403842325236
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "3",
+				"road_id": 1,
+				"length_m": 653.0,
+				"surveyed": null,
+				"surveyed_c": null,
+				"surveyed_p": null,
+				"no_of_segm": 3,
+				"surveyed_s": null,
+				"two_sided": null,
+				"ward_id": 1,
+				"ward_no": 93,
+				"ward_name": "Vasanthanagar",
+				"city_id": 1,
+				"obs_per": null,
+				"s_st_lng": 12.990404,
+				"s_st_lat": 77.593292,
+				"s_ed_lng": 77.592165,
+				"s_end_lat": 12.988883,
+				"r_st_lng": 77.595599,
+				"r_end_lat": 12.988883,
+				"r_end_lng": 77.592164,
+				"r_st_lat": 12.993427,
+				"city_name": "Bengaluru",
+				"seg_lenght_in_mts": 215.0,
+				"road_name": "Millers Road",
+				"seg_id": 1003,
+				"created_at": null
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						77.59329205240202,
+						12.990403842325236
+					],
+					[
+						77.593274649927238,
+						12.990373051788811
+					],
+					[
+						77.593046543961918,
+						12.989986728115657
+					],
+					[
+						77.592992233017782,
+						12.98995894454055
+					],
+					[
+						77.592817080222986,
+						12.989655971067393
+					],
+					[
+						77.592496645652645,
+						12.989285522650414
+					],
+					[
+						77.592164325011566,
+						12.988883419575394
+					]
+				]
+			}
+		}
+	]
+}

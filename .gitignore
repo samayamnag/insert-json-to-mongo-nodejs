@@ -1,0 +1,15 @@
+.env
+node_modules/
+
+# Netbeans editor specific
+nbproject/
+/nbproject/private/
+/.history
+
+# Eclipse editor specific
+.buildpath
+.project
+.settings/
+
+# PhpStrom editor specific
+.idea/
